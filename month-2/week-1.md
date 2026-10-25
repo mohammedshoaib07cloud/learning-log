@@ -54,3 +54,23 @@ must be closed first. Time complexity: O(n).
 
 price so far. O(n). Maximum Subarray: Kadane's, extend or restart. O(n).
 
+
+
+
+
+
+
+\## Day 5
+
+\*\*Done:\*\* PyTorch environment, tensors, Group Anagrams
+
+
+
+\*\*Setup:\*\* env `dl` (Python 3.11), installed PyTorch using pytorch.org selector
+
+\*\*Tensor things I learned:\*\* \[shape, dtype, indexing, reshape, @ vs \*]
+
+\*\*Error I hit and how I fixed it:\*\* \[your note]
+
+\*\*DSA:\*\* Group Anagrams
+
