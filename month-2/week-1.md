@@ -74,3 +74,15 @@ price so far. O(n). Maximum Subarray: Kadane's, extend or restart. O(n).
 
 \*\*DSA:\*\* Group Anagrams
 
+
+
+Day 6 :
+Dataset:{.We loaded the data sets from the Tensor name:[FashionMNIST] 
+         . it is a dataset that consist of the images of the humanwares with the there names labeld
+.images of pixelsize:[28x28] 
+}
+
+Dataloaders={.dataloaders is as the name suggests it loads the data to the modal,
+.it will load the data in batchs_size:[amount of data groupd together per step]
+.}
+
